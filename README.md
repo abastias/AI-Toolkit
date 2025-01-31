@@ -24,3 +24,26 @@ This repository is designed for developers and enthusiasts who want to learn and
    ```bash
    git clone https://github.com/abastias/AI-Toolkit.git
    cd AI-Toolkit
+   ```
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
+### Running an Example
+Check out the examples/simple_nn.py file for a simple neural network demo using TensorFlow/Keras.
+   
+   ```bash
+   python examples/simple_nn.py
+   ```
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+
+
+
+
